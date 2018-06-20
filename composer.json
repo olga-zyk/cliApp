@@ -1,0 +1,16 @@
+{
+  "name": "cliProject/cliApp",
+  "description": "console application",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Olga Zyk",
+      "email": "olga.zyk.sln@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {"cliApp\\": "app/"}
+  }
+}
